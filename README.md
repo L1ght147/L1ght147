@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**L1ght147/L1ght147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# LIGHT
 
-Here are some ideas to get you started:
+**Software Developer · Cybersecurity · Linux**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### About
+
+I build software and work with Linux systems.
+
+### Tech Stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark)
+
+**Tools & Infrastructure**
+
+![Tools](https://skillicons.dev/icons?i=linux,docker,git,github,vscode,nginx,bash&theme=dark)
+
+---
+
+<div align="center">
+
+<sub>LIGHT · L1ght147</sub>
+
+</div>
